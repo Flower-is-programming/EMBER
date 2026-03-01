@@ -1,6 +1,7 @@
 # **EMBER**
 
 I was bored… I hope that says enough.
+⚠️ - This project is insecure. There is no rate limiting/ensuring subject is set before the BYE command is ran etc. This is more of a proof of concept. Not a production-ready tool. This *may* change in the future.
 
 ---
 
